@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @midvar. I have no clue what I'm doing!
+- 👋 Hi, I’m midvar. I have no clue what I'm doing!
 
 <!---
 midvar/midvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
